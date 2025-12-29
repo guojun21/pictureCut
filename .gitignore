@@ -45,3 +45,6 @@ ENV.bak/
 # Generated files
 *.pdf
 output/
+node_modules/
+*.log
+*.pyc
